@@ -1,0 +1,15 @@
+{
+  "name": "array-manipulate",
+  "version": "1.0.0",
+  "description": "It contains the array manipulation functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Array",
+    "manipulation"
+  ],
+  "author": "Ibrahim Badhusha",
+  "license": "ISC"
+}
